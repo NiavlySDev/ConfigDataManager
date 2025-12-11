@@ -7,6 +7,27 @@ Permet de gérer une large quantité de stockage de données pour les plugins mi
 
 - Gérez vos données peu importe le type avec une libraire simple d'utilisation
 
+## Installation
+
+1. Mettez JitPack dans votre pom:
+
+   ```xml
+      <repository>
+         <id>jitpack.io</id>
+         <url>https://jitpack.io</url>
+      </repository>
+   ```
+   
+2. Mettez ensuite le repo jitpack dans les dependencies (Trouvez la derniere version sur: https://jitpack.io/#NiavlySDev/BigNumbers)
+
+   ```xml
+      <dependency>
+         <groupId>com.github.NiavlySDev</groupId>
+         <artifactId>ConfigDataManager</artifactId>
+         <version>[Tag] (Exemple: v1.3)</version>
+      </dependency>
+   ```
+
 ### Objectif du Projet
 
 Le projet **ConfigDataManager** a été conçu dans l'objectif de fournir aux développeurs de plugins Minecraft une
