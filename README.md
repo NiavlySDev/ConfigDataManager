@@ -18,7 +18,7 @@ Permet de gérer une large quantité de stockage de données pour les plugins mi
       </repository>
    ```
    
-2. Mettez ensuite le repo jitpack dans les dependencies (Trouvez la derniere version sur: https://jitpack.io/#NiavlySDev/BigNumbers)
+2. Mettez ensuite le repo jitpack dans les dependencies (Trouvez la derniere version sur: https://jitpack.io/#NiavlySDev/ConfigDataManager)
 
    ```xml
       <dependency>
